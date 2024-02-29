@@ -23,33 +23,33 @@
 
 ### 프로젝트 구조
 
-![img.png](img.png)
+![img.png](image/img.png)
 ### 메인화면
-![img_4.png](img_4.png)
+![img_4.png](image/img_4.png)
 ### 검색화면
-![img_5.png](img_5.png)
+![img_5.png](image/img_5.png)
 검색 기능을 제공합니다. 재료 체크박스를 클릭하면 그에 해당하는 재료가 들어간 요리를 보여줍니다. 중복으로 체크하면 재료들이 모두 포함된 레시피가 보여집니다. 사진을 클릭하면 상세페이지로 이동합니다.
 ### 상세페이지
-![img_8.png](img_8.png)
+![img_8.png](image/img_8.png)
 레시피에 좋아요 및 댓글과 같은 반응을 남길수 있습니다.
 ### 게시판
-![img_9.png](img_9.png)
+![img_9.png](image/img_9.png)
 게시판 검색 기능을 제공합니다.
 ### 글작성 페이지
-![img_11.png](img_11.png)
+![img_11.png](image/img_11.png)
 글작성 기능을 지원합니다.
 ### 작성한 글 확인
-![img_12.png](img_12.png)
+![img_12.png](image/img_12.png)
 ### 댓글작성 기능
-![img_13.png](img_13.png)
+![img_13.png](image/img_13.png)
 댓글로 게시판 글에 반응을 남길 수 있습니다.
 ### 로그인 및 회원가입
-![img_14.png](img_14.png)
+![img_14.png](image/img_14.png)
 ### 마이페이지
-![img_15.png](img_15.png)
+![img_15.png](image/img_15.png)
 로그인 했을시 접근 가능한 마이페이지 기능을 보여줍니다.
 ### 역할분담
-![img_16.png](img_16.png)
+![img_16.png](image/img_16.png)
 
 ### 수행일정
-![img_17.png](img_17.png)
+![img_17.png](image/img_17.png)
